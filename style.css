@@ -57,11 +57,21 @@ html,body{
 .social{
     display: flex;
 }
-#icon{
+#icon1{
     height:90px;
     width: 90px;
     padding-right: 50px;
 }
+#icon2{
+    height:90px;
+    width: 90px;
+    padding-right: 50px;
+}
+#icon3{
+     height:90px;
+     width: 90px;
+     padding-right: 50px;
+ }
 
 
 .information{
